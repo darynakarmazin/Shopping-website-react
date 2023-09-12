@@ -1,18 +1,22 @@
 {
   "files": {
-    "main.css": "/shopping-website-react/static/css/main.34398158.css",
-    "main.js": "/shopping-website-react/static/js/main.77beae7a.js",
+    "main.css": "/shopping-website-react/static/css/main.03de9cae.css",
+    "main.js": "/shopping-website-react/static/js/main.09724d17.js",
     "static/media/header-img.jpg": "/shopping-website-react/static/media/header-img.3266b145a803ea6064bc.jpg",
+    "static/media/cat-03.jpg": "/shopping-website-react/static/media/cat-03.eb55f780a8fbbaf39b98.jpg",
+    "static/media/cat-01.jpg": "/shopping-website-react/static/media/cat-01.c4e2270f3eab9f7477cf.jpg",
+    "static/media/cat-02.jpg": "/shopping-website-react/static/media/cat-02.da44a5e6d64780d948d6.jpg",
     "static/media/Shopify.png": "/shopping-website-react/static/media/Shopify.b4131342ebf309c24258.png",
     "static/media/Amazon.png": "/shopping-website-react/static/media/Amazon.7897112af9316cea076c.png",
     "static/media/logo.svg": "/shopping-website-react/static/media/logo.fa6ed5442940b2375841123db8c623be.svg",
     "index.html": "/shopping-website-react/index.html",
+    "static/media/arrow.svg": "/shopping-website-react/static/media/arrow.9d4f9d5e31a0e0b90396898109d19746.svg",
     "static/media/decor-yellow.svg": "/shopping-website-react/static/media/decor-yellow.a14a51327547871fd595.svg",
-    "main.34398158.css.map": "/shopping-website-react/static/css/main.34398158.css.map",
-    "main.77beae7a.js.map": "/shopping-website-react/static/js/main.77beae7a.js.map"
+    "main.03de9cae.css.map": "/shopping-website-react/static/css/main.03de9cae.css.map",
+    "main.09724d17.js.map": "/shopping-website-react/static/js/main.09724d17.js.map"
   },
   "entrypoints": [
-    "static/css/main.34398158.css",
-    "static/js/main.77beae7a.js"
+    "static/css/main.03de9cae.css",
+    "static/js/main.09724d17.js"
   ]
 }
